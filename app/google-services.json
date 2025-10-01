@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "347869223643",
+    "project_id": "ecovillage-20db1",
+    "storage_bucket": "ecovillage-20db1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347869223643:android:6042bf2ecc5fc512240afe",
+        "android_client_info": {
+          "package_name": "com.example.ecovillage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2VxCtjs00bJnAHUjrozkVaJYxEKA84hU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
